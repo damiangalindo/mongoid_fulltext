@@ -1,6 +1,6 @@
 source "http://rubygems.org"
 
-gem "mongoid", "~> 3.0.1"
+gem "mongoid", "~> 3.1.0"
 gem "unicode_utils", "~> 1.0.0"
 
 group :development, :test do
